@@ -1,0 +1,116 @@
+{
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "flowers": "Flowers",
+    "about": "About",
+    "contact": "Contact",
+    "roses": "Roses",
+    "bouquets": "Bouquets",
+    "boxes": "Flower Boxes"
+  },
+  "hero": {
+    "title": "Beyond flowers, emotions bloom",
+    "subtitle": "Handcrafted bouquets · 1-hour Prague delivery · Nationwide",
+    "cta": "Explore collection"
+  },
+  "categories": {
+    "title": "Our categories",
+    "roses": "Roses",
+    "bouquets": "Bouquets",
+    "boxes": "Flower Boxes",
+    "from": "from"
+  },
+  "products": {
+    "title": "Our collection",
+    "addToCart": "Add to cart",
+    "bestseller": "Bestseller",
+    "new": "New",
+    "shopSubtitle": "Hand-tied bouquets and flower boxes by KORA Blooms",
+    "notFound": "Product not found",
+    "backToShop": "Back to shop",
+    "related": "You might also like"
+  },
+  "delivery": {
+    "title": "1-hour Prague delivery",
+    "description": "Order via WhatsApp or Instagram Direct and we deliver anywhere in Prague within 1 hour. Nationwide delivery across the Czech Republic also available.",
+    "badge": "1h Prague delivery · CZ-wide"
+  },
+  "values": {
+    "fresh": "Always fresh flowers",
+    "handmade": "Handcrafted",
+    "rating": "5.0 on Google",
+    "packaging": "KORA signature packaging"
+  },
+  "reviews": {
+    "title": "What our customers say"
+  },
+  "about": {
+    "title": "About KORA Blooms",
+    "text": "KORA Blooms is a Prague flower studio in Karlín where flowers are more than decoration — they are a language of emotion. We hand-tie every bouquet with devotion to color, scent, and detail. Our motto: Beyond flowers, emotions bloom.",
+    "cta": "Learn more",
+    "story": "KORA Blooms grew out of Prague's Karlín district from a love of quality floristry. Beyond hand-tied bouquets we offer floral decor for venues, business collaborations, and our own line of Wild Coast KORA scented candles. Every bouquet deserves to be a small work of art – carefully assembled, beautifully wrapped, and delivered with love within 1 hour in Prague or anywhere in the Czech Republic.",
+    "value1Title": "Fresh Flowers",
+    "value1Text": "Every day we source only the freshest blooms from trusted European growers.",
+    "value2Title": "Handcrafted",
+    "value2Text": "Each bouquet is one-of-a-kind — hand-tied by our florists in Karlín, Prague.",
+    "value3Title": "Signature Packaging",
+    "value3Text": "Our signature KORA Blooms wrap delights before the ribbon is even untied.",
+    "followTitle": "Follow us on Instagram",
+    "followText": "See our latest bouquets and get inspired."
+  },
+  "contactPage": {
+    "title": "Contact us",
+    "phone": "Phone",
+    "address": "Address",
+    "addressText": "Thámova 136/8, Prague 8 – Karlín, 180 00",
+    "whatsappText": "Message us on WhatsApp",
+    "openDaily": "Open 09:00–18:00"
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "social": "Follow us",
+    "rights": "All rights reserved",
+    "address": "Thámova 136/8, Prague 8 – Karlín",
+    "whatsapp": "WhatsApp"
+  },
+  "cart": {
+    "title": "Your cart",
+    "empty": "Your cart is empty",
+    "emptyAction": "Browse flowers",
+    "subtotal": "Subtotal",
+    "delivery": "Delivery",
+    "deliveryEstimate": "from 99 CZK",
+    "total": "Total",
+    "checkout": "Proceed to checkout",
+    "remove": "Remove",
+    "continueShopping": "Continue shopping"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "step1": "Contact",
+    "step2": "Delivery",
+    "step3": "Summary",
+    "step4": "Payment",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "city": "City",
+    "zip": "ZIP code",
+    "pickup": "Pickup in store",
+    "deliveryOption": "Delivery",
+    "next": "Continue",
+    "back": "Back",
+    "pay": "Pay",
+    "orderSummary": "Order summary",
+    "demoTitle": "Demo version",
+    "demoText": "This is a demo version of the e-shop. For a real order, please contact us via WhatsApp or Instagram Direct.",
+    "demoWhatsapp": "Contact via WhatsApp",
+    "demoClose": "Close",
+    "cardNumber": "Card number",
+    "cardExpiry": "Expiry",
+    "cardCvv": "CVV"
+  }
+}

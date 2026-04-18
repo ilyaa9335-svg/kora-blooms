@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-mint-bg text-dark font-inter;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-playfair;
+  }
+}
+
+@layer components {
+  .btn-mint {
+    @apply bg-mint text-white font-inter font-medium px-6 py-3 rounded-[10px] hover:bg-opacity-90 transition-all duration-200 inline-flex items-center gap-2;
+  }
+
+  .btn-blush {
+    @apply bg-rose text-white font-inter font-medium px-6 py-3 rounded-[10px] hover:bg-opacity-90 transition-all duration-200 inline-flex items-center gap-2;
+  }
+
+  .btn-outline {
+    @apply border border-mint text-mint font-inter font-medium px-6 py-3 rounded-[10px] hover:bg-mint hover:text-white transition-all duration-200 inline-flex items-center gap-2;
+  }
+
+  .btn-pill {
+    @apply bg-white text-dark font-inter font-medium px-6 py-3 rounded-full hover:shadow-float transition-all duration-200 inline-flex items-center gap-2;
+  }
+
+  .card-elevated {
+    @apply bg-white rounded-[16px] shadow-card hover:shadow-card-hover transition-all duration-300;
+  }
+
+  .card-float {
+    @apply bg-white rounded-[16px] shadow-float;
+  }
+
+  .section-container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .section-label {
+    @apply text-[10px] font-inter font-semibold tracking-[0.2em] uppercase text-mint;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #D4E8DF;
+}
+::-webkit-scrollbar-thumb {
+  background: #8BBCAA;
+  border-radius: 3px;
+}

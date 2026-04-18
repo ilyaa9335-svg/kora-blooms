@@ -1,0 +1,116 @@
+{
+  "nav": {
+    "home": "Domů",
+    "shop": "Obchod",
+    "flowers": "Květiny",
+    "about": "O nás",
+    "contact": "Kontakt",
+    "roses": "Růže",
+    "bouquets": "Kytice",
+    "boxes": "Květinové boxy"
+  },
+  "hero": {
+    "title": "Beyond flowers, emotions bloom",
+    "subtitle": "Ručně vázané kytice · Doručení do 1 hodiny v Praze · Celá ČR",
+    "cta": "Prohlédnout kolekci"
+  },
+  "categories": {
+    "title": "Naše kategorie",
+    "roses": "Růže",
+    "bouquets": "Kytice",
+    "boxes": "Květinové boxy",
+    "from": "od"
+  },
+  "products": {
+    "title": "Naše kolekce",
+    "addToCart": "Do košíku",
+    "bestseller": "Bestseller",
+    "new": "Novinka",
+    "shopSubtitle": "Vyberte si z ručně vázané kolekce KORA Blooms",
+    "notFound": "Produkt nenalezen",
+    "backToShop": "Zpět do obchodu",
+    "related": "Mohlo by se vám líbit"
+  },
+  "delivery": {
+    "title": "Doručení do 1 hodiny po Praze",
+    "description": "Objednejte kytici přes WhatsApp nebo Instagram Direct – doručíme kamkoliv po Praze do 1 hodiny. Posíláme i po celé České republice.",
+    "badge": "1h doručení v Praze · Celá ČR"
+  },
+  "values": {
+    "fresh": "Vždy čerstvé květiny",
+    "handmade": "Ručně vázané",
+    "rating": "5.0 na Google",
+    "packaging": "Signature balení KORA"
+  },
+  "reviews": {
+    "title": "Co říkají naši zákazníci"
+  },
+  "about": {
+    "title": "O KORA Blooms",
+    "text": "KORA Blooms je pražské květinové studio v Karlíně, kde květiny nejsou jen dekorace — jsou jazyk emocí. Každou kytici vážeme ručně, s důrazem na barvu, vůni a detail. Naše motto: Beyond flowers, emotions bloom.",
+    "cta": "Více o nás",
+    "story": "KORA Blooms vzniklo z lásky ke kvalitnímu floristickému řemeslu v srdci pražského Karlína. Kromě ručně vázaných kytic nabízíme květinovou dekoraci prostor, spolupráci s firmami a vlastní řadu vonných svíček Wild Coast KORA. Věříme, že každá kytice si zaslouží být malým uměleckým dílem – pečlivě sestavena, krásně zabalena a doručena s láskou do 1 hodiny po Praze nebo kamkoliv v ČR.",
+    "value1Title": "Čerstvé květiny",
+    "value1Text": "Každý den vybíráme jen ty nejčerstvější květiny od prověřených evropských pěstitelů.",
+    "value2Title": "Ruční práce",
+    "value2Text": "Každá kytice je jedinečná – ručně vázaná našimi floristy v Karlíně.",
+    "value3Title": "Signature balení",
+    "value3Text": "Autorské balení KORA Blooms udělá radost ještě před rozbalením.",
+    "followTitle": "Sledujte nás na Instagramu",
+    "followText": "Podívejte se na naše nejnovější kytice a inspirujte se."
+  },
+  "contactPage": {
+    "title": "Kontaktujte nás",
+    "phone": "Telefon",
+    "address": "Adresa",
+    "addressText": "Thámova 136/8, Praha 8 – Karlín, 180 00",
+    "whatsappText": "Napište nám na WhatsApp",
+    "openDaily": "Otevřeno 09:00–18:00"
+  },
+  "footer": {
+    "navigation": "Navigace",
+    "contact": "Kontakt",
+    "social": "Sledujte nás",
+    "rights": "Všechna práva vyhrazena",
+    "address": "Thámova 136/8, Praha 8 – Karlín",
+    "whatsapp": "WhatsApp"
+  },
+  "cart": {
+    "title": "Váš košík",
+    "empty": "Váš košík je prázdný",
+    "emptyAction": "Prohlédnout květiny",
+    "subtotal": "Mezisoučet",
+    "delivery": "Doručení",
+    "deliveryEstimate": "od 99 Kč",
+    "total": "Celkem",
+    "checkout": "Pokračovat k objednávce",
+    "remove": "Odebrat",
+    "continueShopping": "Pokračovat v nákupu"
+  },
+  "checkout": {
+    "title": "Objednávka",
+    "step1": "Kontakt",
+    "step2": "Doručení",
+    "step3": "Souhrn",
+    "step4": "Platba",
+    "name": "Jméno a příjmení",
+    "email": "E-mail",
+    "phone": "Telefon",
+    "address": "Adresa",
+    "city": "Město",
+    "zip": "PSČ",
+    "pickup": "Osobní odběr",
+    "deliveryOption": "Doručení",
+    "next": "Pokračovat",
+    "back": "Zpět",
+    "pay": "Zaplatit",
+    "orderSummary": "Souhrn objednávky",
+    "demoTitle": "Demo verze",
+    "demoText": "Toto je demo verze e-shopu. Pro skutečnou objednávku nás kontaktujte přes WhatsApp nebo Instagram Direct.",
+    "demoWhatsapp": "Kontaktovat přes WhatsApp",
+    "demoClose": "Zavřít",
+    "cardNumber": "Číslo karty",
+    "cardExpiry": "Platnost",
+    "cardCvv": "CVV"
+  }
+}
