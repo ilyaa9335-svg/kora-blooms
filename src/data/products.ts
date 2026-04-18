@@ -9,7 +9,7 @@ export const products: Product[] = [
     badge: "bestseller",
     translations: {
       cs: {
-        name: "Caramel Dream",
+        name: "Karamelový sen",
         shortDescription: "Karamelově broskvové pivoňkové růže v ručním papíru KORA.",
         description: "Okouzlující kytice broskvových pivoňkových růží odstínu Juliet – karamelové, krémové, s jemným růžovým nádechem. Zabalená v ručním krepovém papíru se signature nálepkou KORA Blooms. Dárek, na který se nezapomíná.",
       },
@@ -19,12 +19,12 @@ export const products: Product[] = [
         description: "A captivating bouquet of Juliet-style peach peony roses in tones of caramel, cream, and soft blush. Hand-wrapped in textured craft paper and finished with the KORA Blooms signature sticker. An unforgettable gift.",
       },
       ru: {
-        name: "Caramel Dream",
+        name: "Карамельная мечта",
         shortDescription: "Карамельно-персиковые пионовидные розы в фирменной крафт-упаковке KORA.",
         description: "Очаровательный букет пионовидных роз сорта Juliet в карамельных, кремовых и нежно-розовых оттенках. Ручная упаковка в крафтовую бумагу и фирменная наклейка KORA Blooms. Незабываемый подарок.",
       },
       uk: {
-        name: "Caramel Dream",
+        name: "Карамельна мрія",
         shortDescription: "Карамельно-персикові піоновидні троянди у фірмовій крафт-упаковці KORA.",
         description: "Чарівний букет піоновидних троянд сорту Juliet у карамельних, кремових та ніжно-рожевих відтінках. Ручна упаковка в крафтовий папір та фірмова наклейка KORA Blooms. Незабутній подарунок.",
       },
@@ -38,7 +38,7 @@ export const products: Product[] = [
     badge: null,
     translations: {
       cs: {
-        name: "Lavender Garden",
+        name: "Levandulová zahrada",
         shortDescription: "Levandulové růže, alstromérie a nevěstin závoj.",
         description: "Jemná kytice v odstínech levandule a šeříku – levandulové růže, růžové alstromérie a vzdušný nevěstin závoj. Balená v bílém papíru KORA. Ideální pro vyjádření obdivu a vděčnosti.",
       },
@@ -48,12 +48,12 @@ export const products: Product[] = [
         description: "A delicate bouquet in lavender and lilac tones – lavender roses, soft pink alstroemeria, and airy baby's breath. Wrapped in white KORA paper. Perfect for expressing admiration and gratitude.",
       },
       ru: {
-        name: "Lavender Garden",
+        name: "Лавандовый сад",
         shortDescription: "Лавандовые розы с альстромериями и гипсофилой.",
         description: "Нежный букет в лавандовых и сиреневых тонах — лавандовые розы, розовые альстромерии и воздушная гипсофила. В белой упаковке KORA. Идеален, чтобы выразить восхищение и благодарность.",
       },
       uk: {
-        name: "Lavender Garden",
+        name: "Лавандовий сад",
         shortDescription: "Лавандові троянди з альстромеріями та гіпсофілою.",
         description: "Ніжний букет у лавандових та бузкових тонах — лавандові троянди, рожеві альстромерії та повітряна гіпсофіла. У білій упаковці KORA. Ідеальний, щоб висловити захоплення та вдячність.",
       },
@@ -67,7 +67,7 @@ export const products: Product[] = [
     badge: null,
     translations: {
       cs: {
-        name: "Pink Whisper",
+        name: "Růžový šepot",
         shortDescription: "Studiový mix růžových chryzantém, lisianthusů a snapdragonů.",
         description: "Romantická kombinace růžových chryzantém, krémových lisianthusů a snapdragonů v bílém signature balení KORA Blooms s růžovou stuhou. Jemná, ale výrazná – připravená přinést radost.",
       },
@@ -77,12 +77,12 @@ export const products: Product[] = [
         description: "A romantic combination of pink chrysanthemums, cream lisianthus, and snapdragons in the signature KORA Blooms white wrap with a pink ribbon. Gentle yet striking – ready to make someone's day.",
       },
       ru: {
-        name: "Pink Whisper",
+        name: "Розовый шёпот",
         shortDescription: "Студийный микс розовых хризантем, лизиантусов и львиного зева.",
         description: "Романтичное сочетание розовых хризантем, кремовых лизиантусов и львиного зева в фирменной белой упаковке KORA Blooms с розовой лентой. Нежный, но выразительный.",
       },
       uk: {
-        name: "Pink Whisper",
+        name: "Рожевий шепіт",
         shortDescription: "Студійний мікс рожевих хризантем, лізіантусів та левового зіва.",
         description: "Романтичне поєднання рожевих хризантем, кремових лізіантусів та левового зіва у фірмовій білій упаковці KORA Blooms з рожевою стрічкою. Ніжний, але виразний.",
       },
@@ -96,7 +96,7 @@ export const products: Product[] = [
     badge: "bestseller",
     translations: {
       cs: {
-        name: "Midnight Bloom",
+        name: "Půlnoční květ",
         shortDescription: "Klematisy, delfínie a bílé růže v námořnickém balení.",
         description: "Dramatická kompozice pro nečekané momenty – fialové klematisy, modré delfínie, bílé keříkové růže a oranžové krokosmie, zabalené v tmavě modrém papíru KORA s šeříkovou stuhou. Statement kytice.",
       },
@@ -106,12 +106,12 @@ export const products: Product[] = [
         description: "A dramatic composition for unexpected moments – purple clematis, blue delphinium, white spray roses, and orange crocosmia, wrapped in KORA's navy paper with a lilac ribbon. A statement bouquet.",
       },
       ru: {
-        name: "Midnight Bloom",
+        name: "Полуночный цветок",
         shortDescription: "Клематисы, дельфиниумы и белые розы в тёмно-синей упаковке.",
         description: "Драматичная композиция для особенных моментов — фиолетовые клематисы, синие дельфиниумы, белые кустовые розы и оранжевые крокосмии в тёмно-синей бумаге KORA с сиреневой лентой.",
       },
       uk: {
-        name: "Midnight Bloom",
+        name: "Північний цвіт",
         shortDescription: "Клематиси, дельфініуми та білі троянди в темно-синій упаковці.",
         description: "Драматична композиція для особливих моментів — фіолетові клематиси, сині дельфініуми, білі кущові троянди та помаранчеві крокосмії в темно-синьому папері KORA з бузковою стрічкою.",
       },
@@ -125,7 +125,7 @@ export const products: Product[] = [
     badge: "new",
     translations: {
       cs: {
-        name: "Bell Song",
+        name: "Píseň zvonků",
         shortDescription: "Zvonky (Campanula) v pudrovém balení se stuhou KORA.",
         description: "Romantické zvonky v odstínech bílé, růžové a levandulové v pudrovém papíru s olivovou stuhou KORA. Jemný, pohádkový kus pro milovníky klasické krásy.",
       },
@@ -135,12 +135,12 @@ export const products: Product[] = [
         description: "Romantic Canterbury bells in white, pink, and lavender tones wrapped in powder-toned paper and finished with an olive KORA ribbon. A fairytale piece for lovers of classic beauty.",
       },
       ru: {
-        name: "Bell Song",
+        name: "Песня колокольчиков",
         shortDescription: "Колокольчики (Campanula) в пудровой упаковке с лентой KORA.",
         description: "Романтичные колокольчики в белых, розовых и лавандовых оттенках в пудровой бумаге с оливковой лентой KORA. Нежный, сказочный букет для ценителей классической красоты.",
       },
       uk: {
-        name: "Bell Song",
+        name: "Пісня дзвіночків",
         shortDescription: "Дзвіночки (Campanula) в пудровій упаковці зі стрічкою KORA.",
         description: "Романтичні дзвіночки в білих, рожевих та лавандових тонах у пудровому папері з оливковою стрічкою KORA. Ніжний, казковий букет для поціновувачів класичної краси.",
       },
@@ -154,7 +154,7 @@ export const products: Product[] = [
     badge: null,
     translations: {
       cs: {
-        name: "Velvet Noir",
+        name: "Sametová noc",
         shortDescription: "Burgundské chryzantémy, tmavé kaly a modré anemonky.",
         description: "Hluboká, dramatická kompozice – burgundské chryzantémy, tmavě fialové kaly, bílé keříkové růže a syté modré anemonky, doplněné eucalyptem. Zabaleno v bílém papíru s olivovou stuhou KORA.",
       },
@@ -164,12 +164,12 @@ export const products: Product[] = [
         description: "A deep, dramatic composition – burgundy chrysanthemums, dark plum calla lilies, white spray roses, and rich blue anemones accented with eucalyptus. Wrapped in white paper with an olive KORA ribbon.",
       },
       ru: {
-        name: "Velvet Noir",
+        name: "Бархатная ночь",
         shortDescription: "Бордовые хризантемы, тёмные каллы и синие анемоны.",
         description: "Глубокая, драматичная композиция — бордовые хризантемы, тёмно-сливовые каллы, белые кустовые розы и насыщенно-синие анемоны с эвкалиптом. В белой бумаге с оливковой лентой KORA.",
       },
       uk: {
-        name: "Velvet Noir",
+        name: "Оксамитова ніч",
         shortDescription: "Бордові хризантеми, темні кали та сині анемони.",
         description: "Глибока, драматична композиція — бордові хризантеми, темно-сливові кали, білі кущові троянди та насичено-сині анемони з евкаліптом. У білому папері з оливковою стрічкою KORA.",
       },
@@ -183,7 +183,7 @@ export const products: Product[] = [
     badge: "new",
     translations: {
       cs: {
-        name: "Lilac Box",
+        name: "Šeříkový box",
         shortDescription: "Levandulové růže, ranunculy a lisianthus v bílém kulatém boxu.",
         description: "Elegantní šeříkový box plný levandulových růží, bílých ranunculí, lisianthusů a freesií se zelenými akcenty. Signature KORA kulatý box s saténovou stuhou – luxusní a nadčasový dárek.",
       },
@@ -193,12 +193,12 @@ export const products: Product[] = [
         description: "An elegant lilac flower box filled with lavender roses, white ranunculus, lisianthus, and freesia with soft green accents. The signature KORA round box with a satin ribbon – a luxurious, timeless gift.",
       },
       ru: {
-        name: "Lilac Box",
+        name: "Сиреневый бокс",
         shortDescription: "Лавандовые розы, ранункулюсы и лизиантусы в белом круглом боксе.",
         description: "Элегантный сиреневый бокс с лавандовыми розами, белыми ранункулюсами, лизиантусами и фрезиями с зелёными акцентами. Фирменный круглый бокс KORA с атласной лентой — роскошный вневременной подарок.",
       },
       uk: {
-        name: "Lilac Box",
+        name: "Бузковий бокс",
         shortDescription: "Лавандові троянди, ранункулюси та лізіантуси в білому круглому боксі.",
         description: "Елегантний бузковий бокс із лавандовими трояндами, білими ранункулюсами, лізіантусами та фрезіями з зеленими акцентами. Фірмовий круглий бокс KORA з атласною стрічкою — розкішний позачасовий подарунок.",
       },
