@@ -45,7 +45,7 @@ export default function ContactPage() {
                   rel="noopener noreferrer"
                   className="text-mint hover:underline text-xs mt-1 inline-block"
                 >
-                  Otevřít v Google Maps →
+                  {t("openInMaps")} →
                 </a>
               </div>
             </div>

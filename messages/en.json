@@ -65,7 +65,8 @@
     "address": "Address",
     "addressText": "Thámova 136/8, Prague 8 – Karlín, 180 00",
     "whatsappText": "Message us on WhatsApp",
-    "openDaily": "Open 09:00–18:00"
+    "openDaily": "Open 09:00–18:00",
+    "openInMaps": "Open in Google Maps"
   },
   "footer": {
     "navigation": "Navigation",
@@ -111,6 +112,7 @@
     "demoClose": "Close",
     "cardNumber": "Card number",
     "cardExpiry": "Expiry",
-    "cardCvv": "CVV"
+    "cardCvv": "CVV",
+    "openHours": "Open 09:00–18:00"
   }
 }

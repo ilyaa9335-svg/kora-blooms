@@ -56,7 +56,7 @@ export default function DeliveryForm({ onNext, onBack }: Props) {
         <div className="text-center py-6 text-stone text-sm">
           <p className="font-medium text-dark mb-1">KORA Blooms</p>
           <p>Thámova 136/8, Praha 8 – Karlín · +420 737 482 377</p>
-          <p className="text-xs mt-1">Otevřeno 09:00–18:00</p>
+          <p className="text-xs mt-1">{t("openHours")}</p>
         </div>
       )}
 

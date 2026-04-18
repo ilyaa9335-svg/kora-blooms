@@ -65,7 +65,8 @@
     "address": "Адрес",
     "addressText": "Thámova 136/8, Прага 8 – Карлин, 180 00",
     "whatsappText": "Напишите нам в WhatsApp",
-    "openDaily": "Открыто 09:00–18:00"
+    "openDaily": "Открыто 09:00–18:00",
+    "openInMaps": "Открыть в Google Maps"
   },
   "footer": {
     "navigation": "Навигация",
@@ -111,6 +112,7 @@
     "demoClose": "Закрыть",
     "cardNumber": "Номер карты",
     "cardExpiry": "Срок действия",
-    "cardCvv": "CVV"
+    "cardCvv": "CVV",
+    "openHours": "Открыто 09:00–18:00"
   }
 }
