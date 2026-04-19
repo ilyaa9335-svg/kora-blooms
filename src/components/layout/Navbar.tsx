@@ -26,8 +26,12 @@ export default function Navbar() {
     <header className="bg-mint-bg sticky top-0 z-50 border-b border-mint-light">
       <div className="section-container">
         <div className="flex items-center justify-between h-16">
-          <Link href="/" className="font-playfair text-dark text-xl font-bold tracking-wider whitespace-nowrap">
-            KORA <span className="font-normal">Blooms</span>
+          <Link href="/" className="flex items-center" aria-label="KORA Blooms">
+            <img
+              src="/photos/kora-logo.jpg"
+              alt="KORA Blooms"
+              className="h-10 sm:h-12 w-auto mix-blend-multiply"
+            />
           </Link>
 
           <nav className="hidden md:flex items-center gap-8">

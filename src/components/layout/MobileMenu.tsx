@@ -30,8 +30,12 @@ export default function MobileMenu({ isOpen, onClose }: Props) {
           </svg>
         </button>
 
-        <div className="font-playfair text-dark text-xl font-bold tracking-wider mb-8 mt-2">
-          KORA <span className="font-normal">Blooms</span>
+        <div className="mb-8 mt-2">
+          <img
+            src="/photos/kora-logo.jpg"
+            alt="KORA Blooms"
+            className="h-14 w-auto mix-blend-multiply"
+          />
         </div>
 
         <nav className="flex flex-col gap-4">
