@@ -6,8 +6,6 @@ import { useRouter, usePathname } from "@/i18n/navigation";
 const localeLabels: Record<string, string> = {
   cs: "CS",
   en: "EN",
-  uk: "UK",
-  ru: "RU",
 };
 
 export default function LanguageSwitcher() {

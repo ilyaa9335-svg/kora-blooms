@@ -1,4 +1,4 @@
-export type Locale = "cs" | "en" | "ru" | "uk";
+export type Locale = "cs" | "en";
 
 export type ProductCategory = "roses" | "bouquets" | "boxes";
 

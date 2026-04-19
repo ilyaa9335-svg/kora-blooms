@@ -6,7 +6,7 @@ import { CartProvider } from "@/context/CartContext";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 
-type Locale = "cs" | "en" | "ru" | "uk";
+type Locale = "cs" | "en";
 
 interface Props {
   children: React.ReactNode;
