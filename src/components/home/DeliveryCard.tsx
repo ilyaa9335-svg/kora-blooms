@@ -11,7 +11,7 @@ export default function DeliveryCard() {
         <div className="flex items-center gap-4 md:gap-6">
           <div className="bg-blush rounded-[12px] w-12 h-12 md:w-20 md:h-20 flex items-center justify-center flex-shrink-0">
             <svg className="w-6 h-6 md:w-10 md:h-10 text-rose" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M8 7h12l-4 8H8m0-8l-2-4H2m6 4v8m0 0a2 2 0 104 0m-4 0a2 2 0 004 0m6 0a2 2 0 104 0 2 2 0 01-4 0" />
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 8v4l3 2m6-2a9 9 0 11-18 0 9 9 0 0118 0z" />
             </svg>
           </div>
           <h3 className="md:hidden font-playfair text-dark text-lg font-semibold leading-tight">
